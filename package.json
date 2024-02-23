@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development"
   },
-  "author": "",
+  "author": "Gustavo Cortes <Gustavocortes934@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "svelte": "^4.2.12"
@@ -19,6 +20,7 @@
     "html-webpack-plugin": "^5.6.0",
     "svelte-loader": "^3.1.9",
     "webpack": "^5.90.3",
-    "webpack-cli": "^5.1.4"
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.2"
   }
 }
