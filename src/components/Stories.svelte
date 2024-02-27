@@ -66,7 +66,7 @@
         <div class="Stories-items">
             <div class="Stories-item">
                 <div class="Stories-item-box">
-                    <img src="https//arepa.s3.amazonaws.com/oscar.png" alt="">
+                    <img src="https://yca.org.ar/wp-content/uploads/sites/4/2019/06/perfil-avatar-hombre-icono-redondo_24640-14044.jpg" alt="">
                 </div>
                 <h2>
                     Gusticortes 

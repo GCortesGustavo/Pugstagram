@@ -1,3 +1,8 @@
+<script>
+    export let nickname;
+    export let name;
+</script>
+
 <style>
     .Profile-content {
         display: flex;
@@ -26,11 +31,11 @@
 <div class="Profile">
     <div class="Profile-content">
         <div class="Profile-avatar">
-            <img src="https//arepa.s3.amazonaws.com/oscar.png" alt="">
+            <img src="https://yca.org.ar/wp-content/uploads/sites/4/2019/06/perfil-avatar-hombre-icono-redondo_24640-14044.jpg" alt="">
         </div>
         <div class="Profile-info">
-            <h2>Gusticortes</h2>
-            <span>Gustavo Cortés</span>
+            <h2>{nickname}</h2>
+            <span>{name}</span>
         </div>
     </div>
 </div>
