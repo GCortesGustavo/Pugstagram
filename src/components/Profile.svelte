@@ -34,8 +34,8 @@
             <img src="https://yca.org.ar/wp-content/uploads/sites/4/2019/06/perfil-avatar-hombre-icono-redondo_24640-14044.jpg" alt="">
         </div>
         <div class="Profile-info">
-            <h2>{nickname}</h2>
-            <span>{name}</span>
+            <h2>gustimendotech</h2>
+            <span>Gustavo</span>
         </div>
     </div>
 </div>
